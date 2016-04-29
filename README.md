@@ -13,3 +13,8 @@ Silent
 
 .EXAMPLE
 PS>  .\imageOptimizer.ps1 -FolderPath 'C:\www\site1' -Silent
+
+Uses the following tools:
+gifsicle.exe -> https://www.lcdf.org/gifsicle/
+pngcrush.exe -> http://pngcrush.com/
+jpegoptim.exe -> https://github.com/tjko/jpegoptim
